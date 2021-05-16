@@ -1,0 +1,446 @@
+.items-inventory-report {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.main-item-report {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.9em;
+    color:black;
+    
+}
+
+.title-report {
+    width: 100%;
+    height: 35px;
+    border: 1px solid rgb(220, 220, 220);
+    margin: 0;
+    font-weight: 600;
+    color: rgb(54, 48, 48);
+    background-color: #f4f5f8;
+}
+
+.title-color {
+    background-color: white;
+
+}
+
+.sub-head {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color:#006f8b;
+}  
+
+.selection {
+    border: 1px solid black;
+}
+.unitsa-by-state{
+    border-bottom: 5px solid #006f8b;
+    color:#006f8b;
+    font-size: 1.1em;
+
+}
+
+
+.selection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+#fromDate {
+    display: flex;
+    margin-left: 10px;
+    padding: 3px;
+    color: black;
+}
+
+#toDate {
+    display: flex;
+    padding: 3px;
+    color: black;
+}
+
+
+
+.nounits {
+    border: none;
+    margin: 5px;
+    margin-left: 50px;
+    font-size: .8em;
+    color: black;
+
+
+}
+
+.count {
+    margin: 5px;
+}
+
+
+.criteria {
+    height: 35px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(220, 220, 220);
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: none;
+    overflow: hidden
+}
+
+.period-left {
+    left: 0;
+    width: 50%;
+    display: flex;
+
+}
+
+.period-right {
+    width: 50%;
+    display: flex;
+
+
+}
+
+.status-product {
+    display: flex;
+    padding-right: 50px;
+    margin-right: 0px;
+    margin: 5px;
+    align-items: center;
+    padding: 4px;
+    color: black;
+}
+
+.type-product {
+    display: flex;
+    padding: 4px;
+    padding-right: 200px;
+    margin: 5px;
+    margin-right: 0px;
+    align-items: center;
+    justify-content: right;
+    color:black;
+    overflow: hidden;
+}
+
+#fromDate {
+    margin-left: 10px;
+    align-items: center;
+    padding: 5px;
+    color: black;
+}
+
+#toDate {
+
+    margin-left: 10px;
+    align-items: center;
+    padding: 5px;
+    color: black;
+}
+
+
+.dashboard-report {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+
+.status-report {
+    width: 14%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.serial-report {
+
+    width: 14%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.name-report {
+    width: 28%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.type-report {
+    width: 14%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.assigned-to-report {
+    width: 14%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.from-report {
+    width: 14%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.available{
+    background-color:rgb(173, 46, 0);
+    width: 60%;
+    border-radius: 15px;
+    color: white;
+}
+
+.allotted{
+    background-color: #006f8b;
+    width: 60%;
+    border-radius: 15px;
+    color: white;
+}
+
+
+.biglist-report {
+    width: 100%;
+    height: 420px;
+    margin: 0px auto;
+    overflow-y: scroll;
+}
+
+.items-inventory {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+
+.individual-links-report {
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    margin: 0px auto;
+    color: black;
+    border: 1px solid rgb(220, 220, 220);
+}
+
+.main-item {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.85em;
+}
+#report{
+    color:#006f8b;
+}
+
+.nothing {
+    font-size: 03em;
+    font-weight: bolder;
+    color: #b8b2b2;
+    margin: 0%;
+    margin-left: 35%;
+}
+
+.date-error {
+    color: red;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+
+    .type-product {
+        padding-right: 50px;
+    }
+
+    .biglist-report {
+        height: 600px;
+    }
+
+    .from-report {
+        width: 20%;
+    }
+
+    .assigned-to-report {
+        width: 16%;
+
+    }
+
+    .name-report {
+        width: 20%;
+    }
+
+    .main-item-report {
+        color: black;
+    }
+
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .available {
+        width: 70%;
+    }
+
+    .allotted {
+        width: 70%;
+    }
+
+    .criteria {
+        height: 70px;
+    }
+
+    .from-report {
+        width: 20%;
+    }
+
+    .assigned-to-report {
+        width: 18%;
+
+    }
+
+    .name-report {
+        width: 18%;
+    }
+
+    .biglist-report {
+        height: 600px;
+        ;
+    }
+
+    .type-product {
+        display: flex;
+        padding: 4px;
+        padding-right: 0;
+        width:70%;
+
+    }
+
+    .status-product {
+        padding-right: 5%;
+    }
+
+    .main-item-report {
+        color: black;
+    }
+
+}
+
+@media screen and (min-width: 0px) and (max-width: 480px) {
+    .hiddenview-mob-report {
+        display: none;
+    }
+
+    .from-report {
+        width: 24%;
+    }
+
+    .name-report {
+        width: 18%;
+    }
+
+    .available {
+        background-color: rgb(173, 46, 0);
+        width: 90%;
+        border-radius: 15px;
+        color: white;
+    }
+
+    .allotted {
+        background-color: #006f8b;
+        width: 90%;
+        border-radius: 15px;
+        color: white;
+    }
+
+
+    #fromDate {
+        display: flex;
+        margin-left: 5%;
+        align-items: center;
+        padding: 5px;
+        color: black;
+        border: 1px solid black;
+        margin-bottom: 10px;
+    }
+
+    #toDate {
+        display: flex;
+        margin-left: 5%;
+        align-items: center;
+        padding: 5px;
+        color: black;
+        border: 1px solid black;
+    }
+
+    .criteria {
+        height: 80px;
+    }
+
+    .main-item-report {
+        display: flex;
+
+        justify-content: space-evenly;
+        font-size: 0.8em;
+        color: black;
+    }
+
+    .unitsa-by-state {
+        font-size: 1.1em;
+    }
+
+    .period-left {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .period-right {
+        width: 40%;
+        margin-right: 10%;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+
+    }
+
+    .type-product {
+        display: flex;
+        padding: 4px;
+        padding-right: 0px;
+
+    }
+
+    .status-product {
+        padding-right: 45px;
+    }
+
+    .biglist-report {
+        height: 570px;
+    }
+
+
+}

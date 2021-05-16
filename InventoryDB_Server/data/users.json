@@ -1,0 +1,426 @@
+[
+    {
+        "_id": "6025cc03b0bc995a00013e98",
+        "id": 1,
+        "serial": "f-55456",
+        "skype": "church7",
+        "username": "Araceli Church",
+        "from": "4 January 2020",
+        "email": "araceli_church@gmail.com",
+        "type": "Hard Disk",
+        "name": "SEAGATE",
+        "_created": "2021-02-12T00:29:55.849Z",
+        "_changed": "2021-02-12T12:36:46.354Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 1
+      }
+      ,
+      
+      {
+        "_id": "6026773eb0bc995a0001bfd5",
+        "id": 3,
+        "serial": "MON-00018",
+        "skype": "holland8",
+        "username": "Araceli Holland",
+        "from": "25 May 2016",
+        "email": "holland32@gmail.com",
+        "type": "Monitors",
+        "name": "Philips E21",
+        "_created": "2021-02-12T12:40:30.573Z",
+        "_changed": "2021-02-12T12:40:30.573Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 0
+      }
+      ,
+      
+      {
+        "_id": "602a3a82b0bc995a0002c4d9",
+        "id": 25,
+        "serial": "MON-00014",
+        "skype": "chambers6",
+        "username": "Kenny Chambers",
+        "from": "11 June 2020",
+        "email": "chambers19@gmail.com",
+        "type": "Computer",
+        "name": "DELL X2s",
+        "_version": 1,
+        "_created": "2021-02-15T09:10:26.530Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T09:10:26.530Z"
+      }
+      ,
+      
+      {
+        "_id": "60267a37b0bc995a0001c221",
+        "id": 5,
+        "serial": "MON-00082",
+        "skype": "holland8",
+        "username": "Araceli Holland",
+        "from": "09 March 2017",
+        "email": "holland32@gmail.com",
+        "type": " Monitors",
+        "name": "DELL",
+        "_created": "2021-02-12T12:53:11.960Z",
+        "_changed": "2021-02-15T08:53:51.367Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 2
+      }
+      ,
+      
+      {
+        "_id": "60267b0fb0bc995a0001c23a",
+        "id": 6,
+        "serial": "PC-00006",
+        "skype": "araceli_munoz",
+        "username": "Araceli Munoz",
+        "from": "12 March 2015",
+        "email": "araceli_munoz@gmail.com",
+        "type": "Computer",
+        "name": "Philips E21s",
+        "_created": "2021-02-12T12:56:47.279Z",
+        "_changed": "2021-02-12T12:56:47.279Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 0
+      }
+      ,
+      
+      {
+        "_id": "60267b8bb0bc995a0001c24f",
+        "id": 9,
+        "serial": "RAM-00076",
+        "skype": "araceli_munoz",
+        "username": "Araceli Munoz",
+        "from": "12 March 2015",
+        "email": "araceli_munoz@gmail.com",
+        "type": "Memory",
+        "name": "DELL - X3",
+        "_created": "2021-02-12T12:58:51.677Z",
+        "_changed": "2021-02-12T12:59:06.039Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 1
+      }
+      ,
+      
+      {
+        "_id": "602a3a82b0bc995a0002c4d3",
+        "id": 19,
+        "serial": "F-P5456",
+        "skype": "dorsey9",
+        "username": "Carina Dorsey",
+        "from": "4 January 2020",
+        "email": "carinadorsey@gmail.com",
+        "type": "Monitor",
+        "name": "Acer",
+        "_version": 1,
+        "_created": "2021-02-15T09:10:26.530Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T09:10:26.530Z"
+      }
+      ,
+      
+      {
+        "_id": "60267eb5b0bc995a0001c2c7",
+        "id": 12,
+        "serial": "PC-00024",
+        "skype": "bailey7",
+        "username": "Bailey Strong",
+        "from": " 16 April 2019",
+        "email": "strong13@gmail.com",
+        "type": " Computer",
+        "name": "Dell X2",
+        "_created": "2021-02-12T13:12:21.260Z",
+        "_changed": "2021-02-12T13:12:21.260Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 0
+      }
+      ,
+      
+      {
+        "_id": "602a3a82b0bc995a0002c4d6",
+        "id": 22,
+        "serial": "RAM-5E6",
+        "skype": "carinavillarreal",
+        "username": "Carina Villarreal",
+        "from": "17 February 2021",
+        "email": "villarreal27@gmail.com",
+        "type": "RAM",
+        "name": "SAMSUNG",
+        "_version": 1,
+        "_created": "2021-02-15T09:10:26.530Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T09:10:26.530Z"
+      }
+      ,
+      
+      {
+        "_id": "602a3a82b0bc995a0002c4d7",
+        "id": 23,
+        "serial": "Keyboard-5E6",
+        "skype": "donnasolomon",
+        "username": "Donna Solomon",
+        "from": "2 February 2021",
+        "email": "donna59@gmail.com",
+        "type": "Keyboard",
+        "name": "iBall",
+        "_version": 1,
+        "_created": "2021-02-15T09:10:26.530Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T09:10:26.530Z"
+      }
+      ,
+      
+      {
+        "_id": "602a3a82b0bc995a0002c4d4",
+        "id": 20,
+        "serial": "F-S556",
+        "skype": "dorsey9",
+        "username": "Carina Dorsey",
+        "from": "5 January 2021",
+        "email": "carinadorsey@gmail.com",
+        "type": "Mouse",
+        "name": "Logitech",
+        "_version": 1,
+        "_created": "2021-02-15T09:10:26.530Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T09:10:26.530Z"
+      }
+      ,
+      
+      {
+        "_id": "602a3a82b0bc995a0002c4d5",
+        "id": 21,
+        "serial": "Laptop-56",
+        "skype": "carina5",
+        "username": "Carina Munoz",
+        "from": "10 February 2021",
+        "email": "carinamunoz@gmail.com",
+        "type": "Laptop",
+        "name": "Acer",
+        "_version": 1,
+        "_created": "2021-02-15T09:10:26.530Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T09:10:26.530Z"
+      }
+      ,
+      
+      {
+        "_id": "60267a37b0bc995a0001c220",
+        "id": 4,
+        "serial": "MON-00032",
+        "skype": "holland8",
+        "username": "Araceli Holland",
+        "from": "07 March 2017",
+        "email": "holland32@gmail.com",
+        "type": " Monitors",
+        "name": "SAMSUNG",
+        "_created": "2021-02-12T12:53:11.648Z",
+        "_changed": "2021-02-15T08:53:17.026Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 2
+      }
+      ,
+      
+      {
+        "_id": "60267a37b0bc995a0001c21f",
+        "id": 8,
+        "serial": "MON-00022",
+        "skype": "holland8",
+        "username": "Araceli Holland",
+        "from": "07 March 2017",
+        "email": "holland32@gmail.com",
+        "type": " Monitors",
+        "name": "Acer",
+        "_created": "2021-02-12T12:53:11.449Z",
+        "_changed": "2021-02-15T08:53:40.214Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 4
+      }
+      ,
+      
+      {
+        "_id": "602676efb0bc995a0001bfcb",
+        "id": 2,
+        "serial": "PC-00015",
+        "skype": "holland8",
+        "username": "Araceli Holland",
+        "from": "03 January 2020",
+        "email": "holland32@gmail.com",
+        "type": "Computer",
+        "name": "Dell X2",
+        "_created": "2021-02-12T12:39:11.563Z",
+        "_changed": "2021-02-15T09:37:18.707Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 1
+      }
+      ,
+      
+      {
+        "_id": "60274aacb0bc995a0001d852",
+        "id": 13,
+        "serial": "PC-0544-01-01T",
+        "skype": "bailey7",
+        "username": "Bailey Strong",
+        "from": " 16 April 2019",
+        "email": "strong13@gmail.com",
+        "type": " Computer",
+        "name": "Dell X9",
+        "_version": 2,
+        "_created": "2021-02-13T03:42:36.970Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T08:54:30.804Z",
+        "_changedby": "sumeetwajpe@gmail.com"
+      }
+      ,
+      
+      {
+        "_id": "60274aacb0bc995a0001d853",
+        "id": 14,
+        "serial": "PC-040544-01-01",
+        "skype": "church7",
+        "username": "Araceli Church",
+        "from": " 16 April 2019",
+        "email": "araceli_church@gmail.com",
+        "type": "Laptop",
+        "name": "Lenovo",
+        "_version": 2,
+        "_created": "2021-02-13T03:42:36.970Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T08:54:41.835Z",
+        "_changedby": "sumeetwajpe@gmail.com"
+      }
+      ,
+      
+      {
+        "_id": "60274aacb0bc995a0001d854",
+        "id": 15,
+        "serial": "PC-080544-0",
+        "skype": "church7",
+        "username": "Araceli Church",
+        "from": " 16 April 2019",
+        "email": "araceli_church@gmail.com",
+        "type": "PC",
+        "name": "DELL",
+        "_version": 2,
+        "_created": "2021-02-13T03:42:36.970Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T08:54:51.559Z",
+        "_changedby": "sumeetwajpe@gmail.com"
+      }
+      ,
+      
+      {
+        "_id": "60274aacb0bc995a0001d855",
+        "id": 16,
+        "serial": "PC-0805",
+        "skype": "braydonholland",
+        "username": "Braydon Holland",
+        "from": " 6 April 2019",
+        "email": "holland9@gmail.com",
+        "type": "PC",
+        "name": "DELL",
+        "_version": 2,
+        "_created": "2021-02-13T03:42:36.970Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T08:55:01.637Z",
+        "_changedby": "sumeetwajpe@gmail.com"
+      }
+      ,
+      
+      {
+        "_id": "60274aacb0bc995a0001d857",
+        "id": 17,
+        "serial": "PC-0544-01-01T",
+        "skype": "braydon8",
+        "username": "Braydon Wyatt",
+        "from": "6 April 2019",
+        "email": "braydon129@gmail.com",
+        "type": "RAM",
+        "name": "SAMSUNG",
+        "_version": 2,
+        "_created": "2021-02-13T03:42:36.970Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T08:55:14.715Z",
+        "_changedby": "sumeetwajpe@gmail.com"
+      }
+      ,
+      
+      {
+        "_id": "60274aacb0bc995a0001d856",
+        "id": 7,
+        "serial": "PC-80544-01-01T",
+        "skype": "braydonholland",
+        "username": "Braydon Holland",
+        "from": "6 April 2019",
+        "email": "holland9@gmail.com",
+        "type": "PC",
+        "name": "DELL",
+        "_version": 4,
+        "_created": "2021-02-13T03:42:36.970Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T09:10:44.941Z",
+        "_changedby": "sumeetwajpe@gmail.com"
+      }
+      ,
+      
+      {
+        "_id": "60267df6b0bc995a0001c2ae",
+        "id": 10,
+        "serial": "PC-00003",
+        "skype": "baileykerr",
+        "username": "Bailey Kerr",
+        "from": "19 March 2020",
+        "type": "Computer",
+        "name": "Dell X2",
+        "email": "kerr29@gmail.com",
+        "_created": "2021-02-12T13:09:10.808Z",
+        "_changed": "2021-02-15T09:40:13.352Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 2
+      }
+      ,
+      
+      {
+        "_id": "60267e61b0bc995a0001c2bd",
+        "id": 11,
+        "serial": "PC-00018",
+        "skype": "baileykerr",
+        "username": "Bailey Kerr",
+        "from": "21 March 2020",
+        "email": "kerr29@gmail.com",
+        "name": "Dell X2",
+        "type": "PC",
+        "_created": "2021-02-12T13:10:57.077Z",
+        "_changed": "2021-02-15T09:40:23.431Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 3
+      }
+      ,
+      
+      {
+        "_id": "602a3a82b0bc995a0002c4d8",
+        "id": 24,
+        "serial": "MON-00014",
+        "skype": "glenn8",
+        "username": "Jacey Glenn",
+        "from": "11 February 2020",
+        "email": "glen76@gmail.com",
+        "type": "Monitors",
+        "name": "Philips E21s",
+        "_version": 2,
+        "_created": "2021-02-15T09:10:26.530Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changed": "2021-02-15T11:30:21.409Z",
+        "_changedby": "sumeetwajpe@gmail.com"
+      }
+]

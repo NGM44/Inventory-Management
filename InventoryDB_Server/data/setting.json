@@ -1,0 +1,54 @@
+[
+    {
+        "_id": "6025d13fb0bc995a00013efe",
+        "id": 1,
+        "unitname": "Chassis",
+        "shortname": "CPU",
+        "properties": [],
+        "parts": [],
+        "comments": "Central Processing Unit ",
+        "_created": "2021-02-12T00:52:15.716Z",
+        "_changed": "2021-02-12T00:52:15.716Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 0
+      }
+      ,
+      
+      {
+        "_id": "602a35d7b0bc995a0002c243",
+        "id": 3,
+        "unitname": "Memory",
+        "shortname": "RAM",
+        "properties": [
+          "size",
+          "vendor"
+        ],
+        "parts": [],
+        "comments": "",
+        "_created": "2021-02-15T08:50:31.438Z",
+        "_changed": "2021-02-15T08:50:31.438Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 0
+      }
+      ,
+      
+      {
+        "_id": "60267f6eb0bc995a0001c2de",
+        "id": 2,
+        "unitname": "Laptop",
+        "shortname": "Lappy",
+        "properties": [
+          "Size",
+          "Vendor"
+        ],
+        "parts": [],
+        "comments": "Laptop used for app development.",
+        "_created": "2021-02-12T13:15:26.033Z",
+        "_changed": "2021-02-12T13:16:05.751Z",
+        "_createdby": "sumeetwajpe@gmail.com",
+        "_changedby": "sumeetwajpe@gmail.com",
+        "_version": 1
+      }
+]

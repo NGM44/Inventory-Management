@@ -1,0 +1,340 @@
+[
+	{
+		"_id": "60274665b0bc995a0001d80d",
+		"id": 5,
+		"status": "Allotted",
+		"serial": "+058875-01-01T00:00:00.000Z",
+		"type": "Memory",
+		"name": "Xono",
+		"assignedto": "Araceli Church",
+		"from": "8 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:32:12.915Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d81a",
+		"id": 18,
+		"status": "Allotted",
+		"serial": "+063658-01-01T00:00:00.000Z",
+		"type": "PC",
+		"name": "DELL",
+		"assignedto": "Dominick Cork",
+		"from": "8 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:30:30.191Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d817",
+		"id": 15,
+		"status": "Available",
+		"serial": "0744-01-01T00:00:00.000Z",
+		"type": "PC Accessories",
+		"name": "Lenovo",
+		"assignedto": "",
+		"from": "3 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:30:01.333Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d81b",
+		"id": 19,
+		"status": "Available",
+		"serial": "0744-01-01T00:00:00.000Z",
+		"type": "PC Accessories",
+		"name": "Lenovo",
+		"assignedto": "",
+		"from": "4 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:31:57.218Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d80e",
+		"id": 6,
+		"status": "Allotted",
+		"serial": "1970-01-01",
+		"type": "PC Accessories",
+		"name": "Lenovo",
+		"assignedto": "Araceli Church",
+		"from": " 4 January 2020",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:26:07.573Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d819",
+		"id": 17,
+		"status": "Available",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "PC",
+		"name": "Acer",
+		"assignedto": "",
+		"from": "8 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:30:25.182Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d81c",
+		"id": 20,
+		"status": "Allotted",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "Laptop",
+		"name": "Acer",
+		"assignedto": "Araceli Munich",
+		"from": "8 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:32:06.991Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d816",
+		"id": 14,
+		"status": "Allotted",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "PC",
+		"name": "DELL",
+		"assignedto": "Dominick Cork",
+		"from": "8 February 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:29:45.036Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d815",
+		"id": 13,
+		"status": "Available",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "PC",
+		"name": "Acer",
+		"assignedto": "",
+		"from": "8 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:29:25.333Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d814",
+		"id": 12,
+		"status": "Allotted",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "PC Accessories",
+		"name": "Lenovo",
+		"assignedto": "Araceli Church",
+		"from": "14  January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:29:09.875Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d813",
+		"id": 11,
+		"status": "Allotted",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "Memory",
+		"name": "Xono",
+		"assignedto": "Araceli Munich",
+		"from": "1 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:28:55.091Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d812",
+		"id": 10,
+		"status": "Allotted",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "Laptop",
+		"name": "Acer",
+		"assignedto": "Araceli Munich",
+		"from": "8 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:28:41.497Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d811",
+		"id": 9,
+		"status": "Available",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "PC Accessories",
+		"name": "Lenovo",
+		"assignedto": "",
+		"from": "6 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:28:32.008Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d80f",
+		"id": 7,
+		"status": "Available",
+		"serial": "1970-01-01T00:00:00.000Z",
+		"type": "PC",
+		"name": "Acer",
+		"assignedto": "",
+		"from": "8 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:27:59.853Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d818",
+		"id": 16,
+		"status": "Allotted",
+		"serial": "4554-01-01T00:00:00.000Z",
+		"type": "Laptop",
+		"name": "Acer",
+		"assignedto": "Araceli Munich",
+		"from": "3 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:30:17.012Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60274665b0bc995a0001d810",
+		"id": 8,
+		"status": "Allotted",
+		"serial": "6658-01-01T00:00:00.000Z",
+		"type": "PC",
+		"name": "DELL",
+		"assignedto": "Dominick Cork",
+		"from": "9 January 2021",
+		"_version": 2,
+		"_created": "2021-02-13T03:24:21.231Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changed": "2021-02-13T03:28:19.684Z",
+		"_changedby": "sumeetwajpe@gmail.com"
+	  }
+	  ,
+	  
+	  {
+		"_id": "60267cc5b0bc995a0001c28c",
+		"id": 2,
+		"status": "Available",
+		"serial": "CPU-00034",
+		"type": "Another resource",
+		"assignedto": "Russell Kerr",
+		"from": "02 February 2021",
+		"name": "CPU",
+		"_created": "2021-02-12T13:04:05.448Z",
+		"_changed": "2021-02-12T13:06:20.980Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changedby": "sumeetwajpe@gmail.com",
+		"_version": 1
+	  }
+	  ,
+	  
+	  {
+		"_id": "60267d36b0bc995a0001c296",
+		"id": 3,
+		"status": "Allotted",
+		"serial": "HDD-00033",
+		"type": "Fixture",
+		"name": "Fixture",
+		"assignedto": "Araceli Holland ",
+		"from": "02 February 2021",
+		"_created": "2021-02-12T13:05:58.753Z",
+		"_changed": "2021-02-12T13:05:58.753Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changedby": "sumeetwajpe@gmail.com",
+		"_version": 0
+	  }
+	  ,
+	  
+	  {
+		"_id": "60264750b0bc995a0001b6e9",
+		"id": 4,
+		"status": "Allotted",
+		"serial": "RAM-00032",
+		"type": "Memory",
+		"name": "SAMSUNG",
+		"assignedto": "Araceli Holland",
+		"from": "26 January 2021",
+		"_created": "2021-02-12T09:16:00.534Z",
+		"_changed": "2021-02-12T13:02:25.684Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changedby": "sumeetwajpe@gmail.com",
+		"_version": 4
+	  }
+	  ,
+	  
+	  {
+		"_id": "6025cf18b0bc995a00013ed7",
+		"id": 1,
+		"status": "Available",
+		"serial": "RAM-88875",
+		"type": "Memory",
+		"name": "Xono",
+		"assignedto": "Araceli Church",
+		"from": "8 January 2020",
+		"_created": "2021-02-12T00:43:04.422Z",
+		"_changed": "2021-02-12T00:43:04.422Z",
+		"_createdby": "sumeetwajpe@gmail.com",
+		"_changedby": "sumeetwajpe@gmail.com",
+		"_version": 0
+	  }
+]

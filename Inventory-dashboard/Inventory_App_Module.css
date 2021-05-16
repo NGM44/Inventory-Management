@@ -1,0 +1,377 @@
+/* CSS related to Inventory Page */
+
+main{
+    height: 92%;
+    width: 100%;
+    display: flex;
+}
+.dashboard{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.addunit{
+    width: 27%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    box-shadow: -2px 0px 5px 2px rgb(182, 182, 182);
+}
+
+.items-inventory{
+    background-color: rgb(245,245,245);
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+
+.heading,.title{
+    width: 99%;
+    height: 35px;
+    background-color: white;
+    border: 1px solid rgb(220,220,220);
+    margin: 0px auto;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    background-color: #f4f5f8;
+    font-weight: 600;
+}
+
+.biglist{
+    width: 99%;
+    height: 90%;
+    margin: 0px auto;
+    border-top: 1px solid #006f8b;
+    overflow: scroll;
+}
+
+.individual-links{
+    height: 30px;
+    background-color: white;
+    margin: 0px auto;
+    color: rgb(105, 105, 105);
+    border: 1px solid rgb(220,220,220);
+}
+
+.individual-links:hover{
+    border-left: 3px solid #006f8b;
+    color: black;
+    cursor: pointer;
+}
+
+.main-item{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.85em;
+}
+
+.type, .assigned-to, .from, .name, .serial, .status{
+    width: 14%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.status{
+    text-align: center;
+    align-items: center;
+}
+
+.name{
+    width: 28%;
+}
+
+.statustag{
+    background-color:#006f8b;
+    width: 50%;
+    border-radius: 15px;
+    color: white;
+}
+
+.leftside{
+    width: 20%;
+    align-items: center;
+    padding-left: 10px;
+    display: flex;
+}
+
+.rightside{
+    width: 15%;
+    display: flex;
+    justify-content: right;
+}
+
+.rightside button, .leftside button{
+    background-color: white;
+    border: none;
+    color:rgb(105, 105, 105);
+}
+
+.rightside button:hover, .leftside button:hover{
+    cursor: pointer;
+    background-color: #006f8b;
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.title-and-button{
+    height: 45px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid rgb(220,220,220);
+}
+
+.left{
+    width: 45%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    color: rgb(105, 105, 105);
+}
+
+.left i,.left p{
+    font-size: 1.2em;
+    margin: auto auto;
+}
+
+.right{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 7px 0px;
+}
+
+.cancel{
+    background-color: #f4f5f8;
+    border: none;
+    color: #006f8b;
+}
+
+.save{
+    background-color: #006f8b;
+    color: white;
+    border: none;
+}
+
+.new-unit-info{
+    width: 100%;
+    padding: 20px;
+}
+
+.select{
+    border: 2px solid #006f8b;
+}
+
+.block-item{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.details > *{
+    width: 100%;
+    padding: 2px; 
+}
+
+.details span{
+    color: rgb(173, 46, 0);
+}
+
+.notes{
+    height: 100px;
+}
+
+/* Styling Releted to JS and Media Queries :   */
+
+@media only screen and (min-width :1px) and (max-width:480px)
+{
+    .addunit{
+        display: none;
+    }
+    .dashboard{
+        width: 100%;
+    }
+    .tablet-view{
+        display: none;
+    }
+    .serial{
+        display: none;
+    }
+    .type{
+        display: none;
+    }
+    .status{
+        width: 33%;
+    }
+    .type{
+        width: 33%;
+    }
+    .assigned-to{
+        width: 33%;
+    }
+    .from{
+        display: none;
+    }
+    .statustag{
+        width: 70%;
+    }
+}
+
+@media only screen and (min-width :481px) and (max-width:768px)
+{
+    .addunit{
+        display: none;
+    }
+    .dashboard{
+        width: 100%;
+    }
+    .tablet-view{
+        display: none;
+    }
+    .serial{
+        display: none;
+    }
+    .type{
+        display: none;
+    }
+    .status{
+        width: 25%;
+    }
+    .type{
+        width: 25%;
+    }
+    .assigned-to{
+        width: 25%;
+    }
+    .from{
+        width: 25%;
+    }
+    .tablet-view{
+        display: none;
+    }
+    .statustag{
+        width: 65%;
+    }
+}
+
+@media only screen and (min-width :768px) and (max-width :2000px)
+{
+    .tablet-view{
+        display: block;
+    }
+    .addunit{
+        display: none;
+    }
+    .statustag{
+        width: 70%;
+    }
+
+} 
+
+.pagetitle{
+    font-size: 1.1em;
+}
+
+.itemEdit{
+    width: 27%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    box-shadow: -2px 0px 5px 2px rgb(182, 182, 182);
+    display: none;
+}
+
+.rightEdit{
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    margin: 7px 0px;
+}
+
+.editBtn{
+    border: none;
+    background-color: white;
+}
+
+.editBtn:hover{
+    background-color: #006f8b;
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+    color: white;
+}
+
+.left .cancel-unit{
+    border: none;
+    background-color: white;
+    color: rgb(150,150,150);
+}
+
+.left .cancel-unit:hover{
+    background-color: #006f8b;
+    transform: scale(1.05);
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.left .closeEdit{
+    border: none;
+    background-color: white;
+    color: rgb(150,150,150);
+}
+
+.left .closeEdit:hover{
+    background-color: #006f8b;
+    transform: scale(1.05);
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.itemDetails{
+    padding: 20px;
+}
+
+.itemDetails > *{
+    margin-top: 5px;
+}
+
+.itemDetails select{
+    border: none;
+    color: #006f8b;
+}
+
+.deprecated-inventory{
+    background-color: rgb(173, 46, 0);
+}
+
+.alloted-inventory{
+    background-color: #006f8b;
+}
+
+.form-error
+{
+    display: none;
+}
+
+.nothing{
+    font-size: 03em;
+    font-weight:bolder;
+    color:#b8b2b2;
+    margin:0%;
+    margin-left:35%;
+}
+
+.searchBackBtn{
+    height: 100%;
+    margin-right: 3px;
+}

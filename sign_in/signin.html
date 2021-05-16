@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" href="signin.css">
+</head>
+<body>
+    <main>
+        <div class="newUser">
+            <form class= "signup-form">
+                <h1 class="heading"><b>Inventory Dashboard</b></h1>
+                <span class="serr">Required *</span>
+                <label for="usernameSignup" aria-placeholder="Username" class="label-hidden">Username</label>
+                <input type="text" id="usernameSignup" placeholder="New Username" aria-placeholder="Enter Username"/>
+
+                <span class="serr">Required *</span>
+                <label for="passwordSignup" aria-placeholder="Password" class="label-hidden">Password</label>
+                <input type="password" id="passwordSignup" placeholder="Password" aria-placeholder="Enter Password"/>
+               
+                <span  class="serr">Required *</span>
+                <label for="cpasswordSignup" aria-placeholder="Confirm Password" class="label-hidden">Confirm Password</label>
+                <input type="password" id="cpasswordSignup" placeholder="Confirm Password" aria-placeholder="Confirm Password"/>
+
+                <button id="createAccount">Create Account</button>
+                <button id="cancelAccount" class="signup-cancel">Cancel</button>
+                <div class="regex">Must include:<ul><li>minimum 1 small leter.</li><li>minimum 1 small leter</li><li>minimum 1 special character</li><li>length must be 6-10 characters</li></ul></div>
+                <span class="unmatched-password">Unmatched Password</span>
+            </form>
+
+            
+        </div>
+
+
+        <div class="signin">
+            <div class="entry">
+                <p class="heading"><b>Inventory Dashboard</b></p>
+                    <label for="username" aria-placeholder="username" class="label-hidden">Username</label>
+                    <input type="text" id="username" placeholder="Login ID">
+                    <span class="err">Invalid</span><br>
+        
+                    <label for="password" aria-placeholder="Password" class="label-hidden">Password</label>
+                    <input type="password" id="password" placeholder="Password">
+                    <span class="err">Invalid</span> <br>
+        
+                    <button id="signinbtn">Sign In</button>
+
+                    <button id="signup" class="signupBtn">Sign Up Instead</button>
+            </div>
+        </div>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+        crossorigin="anonymous"></script>
+    <script src="signin.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,147 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(255,255,255,0.4),rgba(255,255,255,0.4)),url("https://wallpaperaccess.com/full/1091563.jpg");
+    display: flex;
+}
+
+.err{
+    display: none;
+    color: red;
+}
+
+.signin{
+    width:max-content;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 10px;
+    height: 400px;
+}
+.heading{
+    padding:0px;
+    margin:0px;
+    color:black;
+    text-shadow: #006f8b;
+    font-size: larger;
+}
+.heading-underline{
+margin-top: 1px;
+color:#006f8b;
+}
+
+
+.entry input{
+    border: 2px solid #006f8b;
+    height: 50px;
+}
+
+.entry input, button{
+    padding: 10px;
+    cursor: text;
+    margin-top: 30px;
+}
+
+.entry button{
+    display: block;
+    border: none;
+    background-color: #006f8b;
+    padding: 5px;
+    cursor: pointer;
+    color: white;
+    width: 100%;
+}
+
+.entry .signupBtn{
+    background-color: rgb(173, 46, 0);
+}
+
+.entry button:hover{
+    transform: scale(1.03);
+    transition-duration: 0.5s;
+}
+
+.newUser{
+    width:max-content;
+    display: none;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 10px;
+}
+
+.signup-form{
+    padding:30px;
+}
+.signup-form > *{
+    display: block;
+    padding: 10px;
+    cursor: text;
+    margin-top: 10px;
+}
+
+.newUser button{
+    display: block;
+    border: none;
+    background-color: #006f8b;
+    padding: 5px;
+    cursor: pointer;
+    color: white;
+    width: 100%;
+}
+.signup-form input{
+    border: 2px solid #006f8b;
+}
+
+.signup-form .signup-cancel{
+    background-color: rgb(173, 46, 0);
+}
+
+.serr{
+    display: none;
+    margin:0px;
+    padding:0px;
+    color:red;
+}
+
+.unmatched-password{
+    text-align: left;
+    display: none;
+    color: red;
+    font-size: .8em;
+    margin:0px;
+    padding:3px;
+    margin-top:5px;
+    border:1px solid red;
+}
+.regex{
+    text-align: left;
+    display: none;
+    color: red;
+    font-size: .8em;
+    margin:0px;
+    padding:3px;
+    margin-top:5px;
+    border:1px solid red;
+}
+
+.label-hidden{
+    display: none;
+}
