@@ -5,8 +5,8 @@ async function callData()
 {
     try
     {
-        //let promise= await fetch("./InventoryDB_Server/data/signin.json",{
-        let promise= await fetch("https://inventoryapp-90f3.restdb.io/rest/administrator",{
+        let promise= await fetch("./InventoryDB_Server/data/signin.json",{
+        //let promise= await fetch("https://inventoryapp-90f3.restdb.io/rest/administrator",{
             headers:
             { 
                 "x-apikey": "603a2c3f10f29b640ed97b6a",

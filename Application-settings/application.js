@@ -32,8 +32,8 @@ import{
 import 
 { backButton } from "./backButton.js";
 
-//callData("./InventoryDB_Server/data/setting.json").then((response) =>
-callData("https://inventoryapp-90f3.restdb.io/rest/unittypes").then((response) =>
+callData("./InventoryDB_Server/data/setting.json").then((response) =>
+//callData("https://inventoryapp-90f3.restdb.io/rest/unittypes").then((response) =>
 {   memory.app_data=response;
     const load= document.querySelector(".loading-settings");
     load.style.display= "none";

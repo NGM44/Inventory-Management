@@ -9,8 +9,8 @@ import { refreshData } from "./refreshData.js";
 
 //Call the Fetch function using calldata global module
 
-//callData("./InventoryDB_Server/data/reports.json").then((response) => {
-callData(" http://localhost:{port}/comments").then((response) => {
+callData("./InventoryDB_Server/data/reports.json").then((response) => {
+//callData(" http://localhost:{port}/comments").then((response) => {
     //data=  await promise.json();
   console.log(response);
     memory.info = response;         //Transfer data to local Memory
