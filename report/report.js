@@ -8,8 +8,8 @@ import { searchWithType , searchWithStatus } from "./searchWithCondition.js";
 import { refreshData } from "./refreshData.js";
 
 //Call the Fetch function using calldata global module
-
-callData("./InventoryDB_Server/data/reports.json").then((response) => {
+callData("https://inventoryapp-90f3.restdb.io/rest/reports").then((response) => {
+//callData("./InventoryDB_Server/data/reports.json").then((response) => {
 //callData(" http://localhost:{port}/comments").then((response) => {
     //data=  await promise.json();
   console.log(response);
