@@ -3,8 +3,8 @@ import { callData } from "../utility.js";
 import { getUserList} from "./getUserList.js";
 import { formPopUp } from "./edit.js";
 import {refreshData, search} from "./search.js"
-callData("./InventoryDB_Server/data/users.json").then((response) => {
-//callData("https://inventoryapp-90f3.restdb.io/rest/userunits").then((response) => {
+//callData("./InventoryDB_Server/data/users.json").then((response) => {
+callData("https://inventoryapp-90f3.restdb.io/rest/userunits").then((response) => {
     memory.userData = response;
     getUserList();
 });
